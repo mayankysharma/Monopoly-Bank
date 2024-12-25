@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monopoly-Bank/static/css/main.2edbd493.css",
+    "main.js": "/Monopoly-Bank/static/js/main.e39b53a4.js",
+    "static/js/453.aae79e64.chunk.js": "/Monopoly-Bank/static/js/453.aae79e64.chunk.js",
+    "index.html": "/Monopoly-Bank/index.html",
+    "main.2edbd493.css.map": "/Monopoly-Bank/static/css/main.2edbd493.css.map",
+    "main.e39b53a4.js.map": "/Monopoly-Bank/static/js/main.e39b53a4.js.map",
+    "453.aae79e64.chunk.js.map": "/Monopoly-Bank/static/js/453.aae79e64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2edbd493.css",
+    "static/js/main.e39b53a4.js"
+  ]
+}
